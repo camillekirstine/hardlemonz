@@ -1,0 +1,170 @@
+body {
+    background-color: teal;
+}
+
+p {
+    color: #00546b;
+  }
+  
+  .logoText {
+    color:teal;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+  
+  .navLink {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(255, 217, 0);
+
+  }
+  
+  .lemonGif {
+    width: 50%;
+    justify-self: center;
+    padding: 0;
+    top: 5%;
+    left: 25%;
+    z-index: -1;
+  }
+  
+  .title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    font-weight: bolder;
+    color: rgb(255, 217, 0);
+    line-height: 0.8;
+  }
+  
+  .subTitle {
+    font-size: xx-large;
+    padding-top: 0;
+    margin-top: 0;
+    line-height: 1;
+    font-weight: bold;
+  }
+  
+  .lemonTitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: rgb(255, 217, 0);
+  }
+  
+  .cardContainer {
+    color: #075353;
+  }
+  
+  .relative {
+    color: rgb(255, 217, 0);
+  }
+
+  .dashBox {
+    background-color: #00546b;
+    color: antiquewhite;
+  }
+
+  .dashBox p {
+    color: antiquewhite;
+  }
+
+  .dashBox .outcome {
+    font-size: 40px;
+    color: rgb(255, 217, 0);
+  }
+
+  .containerHero {
+    height: 100vh;
+  }
+
+  .cartCard {
+    background-color: #00546b;
+  }
+
+  .cartCard p {
+    color: antiquewhite;
+  }
+
+  .cartCard button {
+    color: antiquewhite;
+  }
+
+  .dialogBox p {
+    color: #00546b;
+  }
+
+  .dialogBox button{
+    color: #2398b8;
+  }
+
+  #confirm-delete-btn {
+    background-color: rgb(240, 119, 119);
+    color: antiquewhite;
+  }
+
+  button.checkoutBtn {
+    background-color: rgb(255, 217, 0);
+    color: #00546b;
+    font-weight: bold;
+  }
+
+  button.orderBtn {
+    background-color: rgb(255, 217, 0);
+    color: #00546b;
+    font-weight: bold;
+    height: 40px;
+    border-radius: 10px;
+    width: 200px;
+
+  }
+
+  
+
+  .orderContent {
+    background-color: #00546b;
+    padding: 10px;
+    border-radius: 10px;
+    color: antiquewhite;
+    justify-content: end;
+
+  }
+
+  .cardTitle {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 10px;
+    font-size: larger;
+  }
+
+  li {
+    color: antiquewhite;
+    font-size: small;
+  }
+
+  .cardPrice {
+    color:  rgb(255, 217, 0);
+  }
+
+  button.addToCart {
+    background-color: #075353;
+  }
+
+  button.addToCart:hover {
+    background-color: #328787;
+    color: rgb(238, 218, 100);;
+  }
+
+  .thanks {
+    background-color: #00546ba3;
+    padding-block: 100px;
+    border-radius: 40px;
+  }
+
+  .subTitle1 {
+    color: antiquewhite;
+    font-size: xx-large;
+    font-weight: bold;
+  }
